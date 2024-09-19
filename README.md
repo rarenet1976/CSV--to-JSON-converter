@@ -1,6 +1,6 @@
 # CSV-JSON-Converter
  
-The following Python script allows CSV files to be instantly converted into JSON files.  JSON formatted files are often necessary in data-related projects.
+The following Python script (import.py) allows CSV files to be instantly converted into JSON files.  JSON formatted files are often necessary in data-related projects.
 
 Our use case for converting to JSON was to import batch records into a DynamoDb table.
 
