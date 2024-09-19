@@ -11,3 +11,4 @@ To use this simple script, you only need the following modules installed in your
 2. [OS Module](https://docs.python.org/3/library/os.html) (import OS)
 3. [CSV Module](https://docs.python.org/3/library/csv.html) (import CSV)
 
+Its benefit lets users quickly convert and build CSV files for any project use case.
